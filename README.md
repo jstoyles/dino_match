@@ -12,7 +12,7 @@ This app, besides being fun to play =), incorporates things like:<br />
 - *Data models with JSON string parsing*
 - *And a way to randomly select and sort "dino" images during game play*
 
-I only uploaded the core code files needed for the app to work. You shoulud be able to create a new Flutter app and simply copy the files from this repo into their respective folders. Some minor adjustments may need to be made to get things running in a fresh copy, like updating dependencies, etc..
+I only uploaded the core code files needed for the app to work. You should be able to create a new Flutter app and simply copy the files from this repo into their respective folders. Some minor adjustments may need to be made to get things running in a fresh copy, like updating dependencies, etc..
 
 **I welcome any feedback, especially from more experienced Flutter/Dart developers!**
 
