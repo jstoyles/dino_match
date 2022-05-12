@@ -12,4 +12,6 @@ I welcome any feedback, especially from more experienced Flutter/Dart developers
 
 I also want to give a shout out to [David Gonzalez](https://medium.com/@david-gonzalez-1987) (use CTRL+click to open in new tab) for writing an awesome blog post on how to create flip animations in Flutter.
 
-See the post here: [https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371](https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371) (use CTRL+click to open in new tab)
+See the post here:
+[https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371](https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371)
+(use CTRL+click to open in new tab)
