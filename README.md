@@ -6,6 +6,6 @@ This app is the first "game" I built using Flutter. It's a simple memory match g
 
 This app, besides being fun to play =), incorporates things like local caching for top scores and "last played" timestamps, flip and fade animations, timers, data models with JSON string parsing, and a way to randomly select and sort "dino" images during game play. 
 
-I only uploaded the core code files needed for the app to work. You shoulud be able to create a new Flutter app and simply copy the files here into their respective folders. Some minor tweaks may be needed.
+I only uploaded the core code files needed for the app to work. You shoulud be able to create a new Flutter app and simply copy the files from this repo into their respective folders. Some minor tweaks may be needed.
 
 I welcome any feedback, especially from more experienced Flutter/Dart developers!
