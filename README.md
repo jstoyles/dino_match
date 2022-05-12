@@ -10,6 +10,6 @@ I only uploaded the core code files needed for the app to work. You shoulud be a
 
 I welcome any feedback, especially from more experienced Flutter/Dart developers!
 
-I also want to give a shout out to David Gonzalez for an awesome blog post on how to create flip animations in Flutter.
+I also want to give a shout out to [David Gonzalez](https://medium.com/@david-gonzalez-1987) for an awesome blog post on how to create flip animations in Flutter.
 
-See the post here: [Medium](https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371)
+See the post here: [https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371](https://medium.com/flutter-community/flutter-flip-card-animation-eb25c403f371)
