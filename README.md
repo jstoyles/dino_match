@@ -2,7 +2,7 @@
 My first mobile app game built with Flutter/Dart
 
 I still consider myself somewhat of a beginner when it comes to Flutter, but I also think I've come a long way in a short period of time.
-This app is the first "game" I built using Flutter. It's a simple memory match game and thought I'd share it here for anyone who wants to start learning Flutter.
+This app is my first go at developing a "mobile game" built with Flutter. It's a simple memory match game and thought I'd share it here for anyone who wants to start learning Flutter.
 
 This app, besides being fun to play =), incorporates things like state management, local caching for top scores and "last played" timestamps, flip and fade animations, timers, data models with JSON string parsing, and a way to randomly select and sort "dino" images during game play. 
 
