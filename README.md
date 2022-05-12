@@ -8,7 +8,7 @@ This app, besides being fun to play =), incorporates things like state managemen
 
 I only uploaded the core code files needed for the app to work. You shoulud be able to create a new Flutter app and simply copy the files from this repo into their respective folders. Some minor adjustments may need to be made to get things running in a fresh copy, like updating dependencies, etc..
 
-I welcome any feedback, especially from more experienced Flutter/Dart developers!
+**I welcome any feedback, especially from more experienced Flutter/Dart developers!**
 
 I also want to give a shout out to [David Gonzalez](https://medium.com/@david-gonzalez-1987) (use CTRL+click to open in new tab) for writing an awesome blog post on how to create flip animations in Flutter.
 
