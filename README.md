@@ -1,4 +1,4 @@
-# DinoMatch
+# Dino Match
 My first mobile app game built with Flutter/Dart
 
 I still consider myself somewhat of a beginner when it comes to Flutter, but I also think I've come a long way in a short period of time.
