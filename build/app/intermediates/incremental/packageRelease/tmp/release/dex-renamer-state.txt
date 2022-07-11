@@ -1,0 +1,4 @@
+#Thu May 12 17:52:36 EDT 2022
+base.0=/Users/jms/Documents/APPS/Flutter/dino_match/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
